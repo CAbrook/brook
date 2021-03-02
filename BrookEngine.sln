@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CLgaming", "CLgaming\CLgaming.vcxproj", "{6308A3E8-7078-404B-8339-A7A1460CCBC1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BrookEngine", "BrookEngine\BrookEngine.vcxproj", "{DB1B67A5-3B42-44CA-93A9-318DA8524B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1B67A5-3B42-44CA-93A9-318DA8524B7F}.Debug|x64.ActiveCfg = Debug|x64
+		{DB1B67A5-3B42-44CA-93A9-318DA8524B7F}.Debug|x64.Build.0 = Debug|x64
+		{DB1B67A5-3B42-44CA-93A9-318DA8524B7F}.Release|x64.ActiveCfg = Release|x64
+		{DB1B67A5-3B42-44CA-93A9-318DA8524B7F}.Release|x64.Build.0 = Release|x64
+		{6308A3E8-7078-404B-8339-A7A1460CCBC1}.Debug|x64.ActiveCfg = Debug|x64
+		{6308A3E8-7078-404B-8339-A7A1460CCBC1}.Debug|x64.Build.0 = Debug|x64
+		{6308A3E8-7078-404B-8339-A7A1460CCBC1}.Release|x64.ActiveCfg = Release|x64
+		{6308A3E8-7078-404B-8339-A7A1460CCBC1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B669DF7-7744-4764-B57D-BD13CE0B5268}
+	EndGlobalSection
+EndGlobal
