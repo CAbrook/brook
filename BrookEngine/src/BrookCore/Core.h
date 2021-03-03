@@ -7,5 +7,5 @@
 		#define BROOKENGINE_API __declspec(dllimport)
 	#endif // BE_BULID_DLL
 #else
-#error This ENGINE ONLY SUPPORT WINDOWS
+#error This ENGINE ONLY SUPPORTS WINDOWS
 #endif // BE_PLATFROM_WINDOWS
