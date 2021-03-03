@@ -1,0 +1,3 @@
+[submodule "BrookEngine/vender/spdlog"]
+	path = BrookEngine/vender/spdlog
+	url = https://github.com/gabime/spdlog

@@ -9,3 +9,7 @@
 //------entry point---------------
 #include"BrookCore/EnterPoint.h"
 //--------------------------------
+
+//----------log--------------
+#include"BrookCore/Log.h"
+//---------------------------
