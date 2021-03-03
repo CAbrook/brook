@@ -17,12 +17,12 @@ public:
 
 };
 
-//int main()
+///int main()
 //{
 //	Game* game = new Game();
 //	game->Run();
 //	delete game;
-//}
+///}
 
 BrookEngine::Application* BrookEngine::CreateApplication()
 {

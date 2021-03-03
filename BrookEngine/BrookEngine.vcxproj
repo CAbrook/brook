@@ -86,11 +86,9 @@
     <ClInclude Include="src\BrookCore\Core.h" />
     <ClInclude Include="src\BrookCore\EnterPoint.h" />
     <ClInclude Include="src\BrookEngine.h" />
-    <ClInclude Include="src\test.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\BrookCore\Application.cpp" />
-    <ClCompile Include="src\test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
